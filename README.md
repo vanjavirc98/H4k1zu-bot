@@ -16,7 +16,7 @@ CODE SETUP 1.You need python:https://www.python.org/ Download it here and do not
 
 AFTER RUNNING THIS COMMANDS IN CMD YOU ARE READY TO START RUNNING THE BOT
 
-3.Open your IDE in my case I will use Visual Studio and depends on which OS you use you will have to uncomment the lines if you using Windows uncomment line 35 and 59 if you are using Linux or MAC uncomment 31 and 55.
+3.Open your IDE in my case I will use Visual Studio and depends on which OS you use you will have to uncomment the lines if you using Windows uncomment line 35 and 59 if you are using Linux or MAC uncomment 31 and 55. Add path to bot_info.txt in line 25 and in line 40 add path to banner.txt if you using Windows if you using Linux just put all the files in same folder and you dont have to add paths.
 
 4.If you run the code and dont get any error it will display you to choose the prefix then you just write the prefix you wanna use for bot, then it will ask you for a token of your bot you just copy the token from dev portal and paste it and the last it will ask for is your discord id(why discord id that way you are the only one who will be able to use bot commands so just copy your id and paste it)
 
