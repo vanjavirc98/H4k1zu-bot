@@ -242,10 +242,6 @@ async def clear(ctx, amount : int):
     """Purge Command"""
     await ctx.channel.purge(limit=amount + 1)
     await ctx.send(f" {amount} Messages deleted :postbox:.", delete_after=3)
-@clear.error
-async def clear_error(ctx, error):
-    if isinstance(error, commands.MissingRequiredArgument):
-        await ctx.send('Missing Arguments (Number).')
 #-----------------------------------------------------------------------------------------------------------
 #OWNER STUFF
 #shutdown
