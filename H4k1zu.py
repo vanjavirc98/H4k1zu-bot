@@ -6,7 +6,7 @@
 #Made by Cryp70m4n
 
 
-#FULL GUIDE ON HOW TO SETUP AND USE BOT IS IN 
+#FULL GUIDE ON HOW TO SETUP AND USE BOT IS IN README.md
 
 #This bot is made for fun not damage so if you do any damage to anyone you take 100% responsibility
 #-----------------------------------------------------------------------------------------------------------
